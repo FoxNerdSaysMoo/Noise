@@ -14,3 +14,5 @@ levellednoise(
     noise_scale=1  # Not recommened to change, but cool if you do
 )
 ```
+`output.png` is not important.
+`elemap.png` is the image output of `test.py`.
