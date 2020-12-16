@@ -1,4 +1,6 @@
 # Noise
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFoxNerdSaysMoo%2FNoise.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFoxNerdSaysMoo%2FNoise?ref=badge_shield)
+
 ## Basic usage
 ```python
 levellednoise(
@@ -16,3 +18,7 @@ levellednoise(
 ```
 `output.png` is not important.
 `elemap.png` is the image output of `test.py`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFoxNerdSaysMoo%2FNoise.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFoxNerdSaysMoo%2FNoise?ref=badge_large)
